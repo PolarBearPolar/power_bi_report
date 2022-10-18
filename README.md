@@ -1,4 +1,8 @@
 # power_bi_report
-1. Я скачал таблицу с данными здесь - https://www.kaggle.com/aungpyaeap/supermarket-sales (файл supermarket_sales.csv)
-2. Затем я изменил данные и добавил нужные столбцы в Python (файл data_cleansing.py, supermarket_sales_edited.csv(на этот csv файл вы можете ссылаться в Power BI))
-3. Затем я загрузил данные в Power BI и создал отчет (файл Supermarket sales.pbix)
+This is visual represenation of a dataset that I found on Kaggle. I used Python for cleansing the data and Power Bi for its visualisation.
+
+- Here is the link to the dataset - https://www.kaggle.com/aungpyaeap/supermarket-sales (***supermarket_sales.csv***)
+- Here are the Python script used for data cleansing ***data_cleansing.py*** and the modified csv file ***supermarket_sales_edited.csv***
+- The ***supermarket_sales_edited.csv*** file was used for building a report in Power BI (***Supermarket sales.pbix***)
+
+I hope you will like it 🙂
